@@ -7,8 +7,6 @@ import { PostsComponent } from 'src/app/modules/posts/posts.component';
 import { ShardModule } from 'src/app/shard/shard.module';
 import{MatSidenavModule} from '@angular/material/sidenav';
 
-
-
 @NgModule({
   declarations: [
   DefaultComponent,
