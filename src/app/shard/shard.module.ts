@@ -24,9 +24,6 @@ import { MatMenuModule } from '@angular/material/menu';
     FlexLayoutModule,
     MatMenuModule
 
-    
-
-
   ],
   exports:[
     HeaderComponent,
